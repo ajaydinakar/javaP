@@ -1,0 +1,9 @@
+127.0.0.1 - - [02/Apr/2018:21:22:42 -0500] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [02/Apr/2018:21:22:45 -0500] "GET /assignment3mar27/ HTTP/1.1" 200 314
+0:0:0:0:0:0:0:1 - - [02/Apr/2018:21:22:54 -0500] "GET /assignment3mar27/ViewRecords HTTP/1.1" 200 1980
+0:0:0:0:0:0:0:1 - - [02/Apr/2018:21:23:09 -0500] "GET /assignment3mar27/EditStudentDetails?name=scott HTTP/1.1" 200 856
+0:0:0:0:0:0:0:1 - - [02/Apr/2018:21:23:27 -0500] "GET /assignment3mar27/home.html HTTP/1.1" 200 314
+0:0:0:0:0:0:0:1 - - [02/Apr/2018:21:23:31 -0500] "GET /assignment3mar27/addnew.html HTTP/1.1" 200 823
+0:0:0:0:0:0:0:1 - - [02/Apr/2018:21:23:34 -0500] "GET /assignment3mar27/ViewRecords HTTP/1.1" 200 1980
+127.0.0.1 - - [02/Apr/2018:21:25:24 -0500] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [02/Apr/2018:21:28:16 -0500] "GET /assignment3mar27/ViewRecords HTTP/1.1" 200 1980

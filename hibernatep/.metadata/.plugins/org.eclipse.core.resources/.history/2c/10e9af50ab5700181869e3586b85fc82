@@ -1,0 +1,32 @@
+
+package com.ajay.hibernate;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
+import org.hibernate.cfg.Configuration;
+
+public class Client {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Configuration cfg =new Configuration();
+		cfg.configure();
+		SessionFactory ft=cfg.buildSessionFactory();
+		Session S=ft.openSession();
+		Transaction tx=S.beginTransaction();
+		Employee e1=new Employee();
+		e1.setEid(5);
+		e1.setEname("ajay");
+		e1.setEsalary(3999.98);
+		e1.setEadd("hyderabad");
+		S.save(e1);
+		tx.commit();
+	/*	Employee e1 =(Employee)S.load(Employee.class, new Integer(2));
+		System.out.println(e1.getEname());
+		System.out.println(S.contains(e1));*/
+		S.evict(e1);
+	//	System.out.println(S.contains(sb));*/
+		S.close();
+	}
+
+}

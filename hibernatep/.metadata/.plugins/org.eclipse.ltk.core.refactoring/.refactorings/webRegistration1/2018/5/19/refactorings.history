@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;webRegistration1/src/main/resources/ajay&apos; to &apos;servelets&apos;" description="Rename resource &apos;ajay&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/ajay" name="servelets" stamp="1526011126716" updateReferences="true"/>
+</session>

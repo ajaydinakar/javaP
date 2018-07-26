@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+C:\Users\friend\Desktop\javaoxy\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1287615356.index
+2109232247.index
+400883839.index
+2665710003.index
+1877536220.index
+2440131281.index
+1512939892.index
+370255237.index
+329260232.index

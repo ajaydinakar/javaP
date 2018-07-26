@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;SpringMVCUserReg&apos;&#x0D;&#x0A;- Original project: &apos;SpringMVCUserReg&apos;&#x0D;&#x0A;- Original element: &apos;SpringMVCUserReg/src/main/java/comm.ajay.handler&apos;" description="Delete element" element1="/src\/main\/java&lt;comm.ajay.handler" element2="/src\/main\/java&lt;comm.ajay" element3="/src\/main\/java&lt;comm" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1526887246069" subPackages="false" version="1.0"/>
+</session>

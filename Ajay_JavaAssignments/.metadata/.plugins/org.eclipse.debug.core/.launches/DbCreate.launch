@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/JDBCAssignment1/src/com/aj_feereport/dbManager/DbCreate.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.aj_feereport.dbManager.DbCreate"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="JDBCAssignment1"/>
+</launchConfiguration>

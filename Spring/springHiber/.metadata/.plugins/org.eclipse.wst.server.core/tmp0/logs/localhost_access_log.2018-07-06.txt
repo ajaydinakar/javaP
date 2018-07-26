@@ -1,0 +1,5 @@
+127.0.0.1 - - [06/Jul/2018:19:42:40 -0500] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [06/Jul/2018:19:42:41 -0500] "GET /SpringMVCUserReg/ HTTP/1.1" 200 353
+0:0:0:0:0:0:0:1 - - [06/Jul/2018:19:42:45 -0500] "GET /SpringMVCUserReg/hello?name=&password=&button=Login HTTP/1.1" 200 681
+0:0:0:0:0:0:0:1 - - [06/Jul/2018:19:43:00 -0500] "GET /SpringMVCUserReg/userlist HTTP/1.1" 200 607
+0:0:0:0:0:0:0:1 - - [06/Jul/2018:19:43:25 -0500] "GET /SpringMVCUserReg/index.jsp HTTP/1.1" 200 353

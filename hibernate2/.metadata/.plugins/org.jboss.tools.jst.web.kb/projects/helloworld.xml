@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths/>
+ <validation>
+  <core validator-id="jsf-verification"/>
+  <core validator-id="jboss.cdi.core">
+   <linked-resource name="%1;" path="%0"/>
+  </core>
+  <core validator-id="batch-verification"/>
+  <core validator-id="jboss.jsf.core"/>
+  <el>
+   <linked-el length="42" name="%2" offset="4237" path="%3"/>
+   <linked-el length="91" name="%4" offset="2561" path="%3"/>
+   <linked-el length="38" name="%5" offset="2296" path="%3"/>
+   <linked-el length="42" name="%5" offset="4237" path="%3"/>
+   <linked-el length="21" name="%5" offset="1852" path="%3"/>
+   <linked-el length="91" name="%6" offset="2561" path="%3"/>
+   <linked-el length="44" name="%7" offset="2950" path="%3"/>
+   <linked-el length="54" name="%8" offset="2466" path="%3"/>
+   <linked-el length="91" name="%8" offset="2561" path="%3"/>
+   <linked-el length="34" name="%9" offset="2693" path="%3"/>
+   <linked-el length="28" name="%10" offset="3104" path="%3"/>
+   <linked-el length="91" name="%11" offset="2561" path="%3"/>
+   <linked-el length="34" name="%12" offset="2693" path="%3"/>
+   <linked-el length="56" name="%13" offset="2768" path="%3"/>
+   <linked-el length="44" name="%14" offset="2865" path="%3"/>
+   <linked-el length="42" name="%15" offset="4237" path="%3"/>
+   <linked-el length="44" name="%16" offset="2865" path="%3"/>
+   <linked-el length="38" name="%17" offset="2296" path="%3"/>
+   <linked-el length="28" name="%18" offset="3104" path="%3"/>
+   <linked-el length="29" name="%19" offset="2121" path="%3"/>
+   <linked-el length="17" name="%20" offset="3799" path="%3"/>
+   <linked-el length="29" name="%21" offset="2121" path="%3"/>
+   <linked-el length="28" name="%21" offset="3528" path="%3"/>
+   <linked-el length="28" name="%22" offset="3035" path="%3"/>
+   <linked-el length="17" name="%23" offset="3799" path="%3"/>
+   <linked-el length="29" name="%24" offset="2121" path="%3"/>
+   <linked-el length="28" name="%24" offset="3528" path="%3"/>
+   <linked-el length="21" name="%25" offset="1852" path="%3"/>
+   <linked-el length="28" name="%26" offset="3035" path="%3"/>
+   <linked-el length="54" name="%27" offset="2466" path="%3"/>
+   <linked-el length="54" name="%28" offset="2466" path="%3"/>
+   <linked-el length="29" name="%29" offset="2121" path="%3"/>
+   <linked-el length="28" name="%29" offset="3528" path="%3"/>
+   <linked-el length="56" name="%30" offset="2768" path="%3"/>
+   <linked-el length="56" name="%31" offset="2768" path="%3"/>
+   <linked-el length="28" name="%32" offset="3528" path="%3"/>
+   <linked-el length="44" name="%33" offset="2950" path="%3"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="project.build.directory" value="%2"/>
+  <alias path="annotations.version" value="%4"/>
+  <alias path="project" value="%5"/>
+  <alias path="annotations" value="%6"/>
+  <alias path="classmate" value="%7"/>
+  <alias path="hibernate" value="%8"/>
+  <alias path="jandex" value="%9"/>
+  <alias path="dom4j" value="%10"/>
+  <alias path="commons" value="%11"/>
+  <alias path="jandex.version" value="%12"/>
+  <alias path="jboss" value="%13"/>
+  <alias
+   path="/helloworld/src/main/java/com/ajay/proj/helloworld/echo/boundary/EchoResource.java" value="%1"/>
+  <alias path="javassist.version" value="%14"/>
+  <alias path="project.build" value="%15"/>
+  <alias path="javassist" value="%16"/>
+  <alias path="project.basedir" value="%17"/>
+  <alias path="dom4j.version" value="%18"/>
+  <alias path="tomee" value="%19"/>
+  <alias path="hsqldb" value="%20"/>
+  <alias path="maven" value="%21"/>
+  <alias path="antlr" value="%22"/>
+  <alias path="hsqldb.version" value="%23"/>
+  <alias path="plugin.version" value="%24"/>
+  <alias path="project.artifactId" value="%25"/>
+  <alias path="antlr.version" value="%26"/>
+  <alias path="core" value="%27"/>
+  <alias path="core.version" value="%28"/>
+  <alias path="/helloworld/pom.xml" value="%3"/>
+  <alias path="plugin" value="%29"/>
+  <alias path="logging.version" value="%30"/>
+  <alias
+   path="/helloworld/src/main/java/com/ajay/proj/helloworld/echo/control/EchoManager.java" value="%0"/>
+  <alias path="logging" value="%31"/>
+  <alias path="exec" value="%32"/>
+  <alias path="classmate.version" value="%33"/>
+ </aliases>
+ <includes/>
+ <uris/>
+</kb-project>

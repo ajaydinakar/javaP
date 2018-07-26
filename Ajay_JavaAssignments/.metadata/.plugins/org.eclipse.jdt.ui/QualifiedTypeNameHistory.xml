@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.sql.BatchUpdateException"/>
+<fullyQualifiedTypeName name="com.ajay.jdbcutility.JdbcUtility"/>
+<fullyQualifiedTypeName name="com.ajay.query.QueryConstants"/>
+<fullyQualifiedTypeName name="com.ajay.StuBean.StuBean"/>
+<fullyQualifiedTypeName name="java.beans.Statement"/>
+<fullyQualifiedTypeName name="com.aj_feereport.utility.ConnectionManager"/>
+<fullyQualifiedTypeName name="com.aj_feereport.student.dao.StudentDao"/>
+<fullyQualifiedTypeName name="com.aj_feereport.Accountant.Dao.AccountantDaoImpl"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="com.aj_feereport.Accountant.bean.AccountantBean"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="javax.sound.midi.SysexMessage"/>
+<fullyQualifiedTypeName name="com.aj_bank.customer.bean.CustomerBean"/>
+<fullyQualifiedTypeName name="com.aj_bank.banker.dao.BankerDaoImpl"/>
+<fullyQualifiedTypeName name="com.aj_bank.customer.dao.CustomerDaoImpl"/>
+<fullyQualifiedTypeName name="com.aj_bank.main.Customer"/>
+<fullyQualifiedTypeName name="com.aj_bank.authenticate.Authenticate"/>
+<fullyQualifiedTypeName name="com.aj_bank.main.Banker"/>
+<fullyQualifiedTypeName name="java.sql.CallableStatement"/>
+<fullyQualifiedTypeName name="java.sql.Types"/>
+<fullyQualifiedTypeName name="java.io.ObjectInputStream.GetField"/>
+<fullyQualifiedTypeName name="com.aj_vendingmachine.menus.CoffeTypes"/>
+<fullyQualifiedTypeName name="com.aj_vendingmachine.menus.Maintainence"/>
+<fullyQualifiedTypeName name="com.aj_vendingmachine.payment.PaymentOptions"/>
+<fullyQualifiedTypeName name="com.aj_vendingmachine.Reports.Reciept"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="com.aj_vendingmachine.Reports.Reports"/>
+<fullyQualifiedTypeName name="com.aj_vendingmachine.maintainence.PasswordChange"/>
+<fullyQualifiedTypeName name="com.aj_vendingmachine.maintainence.MaterialMaintainence"/>
+<fullyQualifiedTypeName name="com.aj_vendingmachine.masterdataprep.CreditDataEntry"/>
+<fullyQualifiedTypeName name="com.aj_vendingmachine.masterdataprep.DebitDataEntry"/>
+<fullyQualifiedTypeName name="java.sql.Statement"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="com.aj_vendingmachine.payment.Validity"/>
+<fullyQualifiedTypeName name="com.aj_vendingmachine.dbutility.ConnectionManager"/>
+<fullyQualifiedTypeName name="com.aj_vendingmachine.deductions.Deductions"/>
+<fullyQualifiedTypeName name="com.aj_vendingmachine.dat.GetCurrent"/>
+<fullyQualifiedTypeName name="com.aj_vendingmachine.main.ECoffeVendorMenu"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+</qualifiedTypeNameHistroy>

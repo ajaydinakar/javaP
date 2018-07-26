@@ -1,0 +1,16 @@
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
+
+public class JavatoJason {
+
+	public static void main(String[] args) throws JsonProcessingException {
+		// TODO Auto-generated method stub
+User u=new User();
+u.setUid(1);
+u.setName("ajay");
+u.setAddress("wichita");	
+ObjectMapper om=new ObjectMapper();
+String j=om.writeValueAsString(u);
+System.out.println(j);
+	}
+}

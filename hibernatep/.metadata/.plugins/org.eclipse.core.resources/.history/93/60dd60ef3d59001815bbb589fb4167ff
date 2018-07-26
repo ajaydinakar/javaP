@@ -1,0 +1,39 @@
+package com.ajay.dao;
+
+import java.util.List;
+
+import com.ajay.Bean.Account;
+
+public class AcccountDaoImpl implements AccountDao {
+
+	@Override
+	public void saveAccount(Account e) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void updateAccount(Account e) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void deleteAccount(Account e) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public Account getById(int eid) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Account> getAllAccounts() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

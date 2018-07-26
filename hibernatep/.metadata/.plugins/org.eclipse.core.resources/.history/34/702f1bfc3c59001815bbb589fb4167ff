@@ -1,0 +1,5 @@
+package com.ajay.dao;
+
+public interface AccountDao {
+
+}

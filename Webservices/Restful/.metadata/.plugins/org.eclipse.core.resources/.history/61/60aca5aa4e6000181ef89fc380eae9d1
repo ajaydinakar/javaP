@@ -1,0 +1,18 @@
+package com.ajay.FormParam;
+
+import javax.ws.rs.POST;
+import javax.ws.rs.Path;
+import javax.ws.rs.PathParam;
+import javax.ws.rs.core.Response;
+
+@Path("welcome")
+public class RestfulFormPost {
+	@POST
+	@Path("add")
+	public Response adduser(@PathParam("name")String name,@PathParam("password")String password)
+	{
+		String result="new user added with/n name:"+name+"/n password :"+password;
+		return Response.status(200).entity(result).build();
+	}
+
+}

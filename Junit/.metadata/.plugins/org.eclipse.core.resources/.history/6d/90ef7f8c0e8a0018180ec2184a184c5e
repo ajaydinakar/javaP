@@ -1,0 +1,22 @@
+package com.ajay.junit;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+import com.ajay.junit.helper.StringHelper;
+
+public class StringHelperTest {
+
+	@Test
+	public void test() {
+		
+		StringHelper helper =new StringHelper();
+		String actual1=helper.truncateAInFirst2Positions("AACD");
+		String actual2=helper.truncateAInFirst2Positions("AACD");
+		String expected="CD";	
+		assertEquals(expected,actual1);
+		assertEquals(expected,actual2);
+	}
+
+}

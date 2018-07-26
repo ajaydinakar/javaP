@@ -1,0 +1,60 @@
+package hibernateHql02Maven;
+
+import java.util.Iterator;
+import java.util.List;
+
+import org.hibernate.Query;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
+import org.hibernate.cfg.Configuration;
+
+
+
+public class Client {
+public static void main(String[] args) {
+	// TODO Auto-generated method stub
+	Configuration cfg =new Configuration();
+	cfg.configure();
+
+	SessionFactory ft=cfg.buildSessionFactory();
+	Session S=ft.openSession();
+	Transaction tx=S.beginTransaction();
+	//Query q=S.createQuery("select new Employee(e.ename,e.esalary) from Employee as e ");
+	/*List<Employee> e=q.list();
+	for(Employee e1 : e)
+		System.out.println("  "+e1.getEname()+"  "+e1.getEsalary());*/
+/*	Query q=S.createQuery("select eb.ename,eb.esalary from Employee as eb");
+	List l=q.list();
+	for(int i=0;i<l.size();i++)
+	{
+		Object [] ob =(Object[])l.get(i);
+		
+		for(int k=0;k<ob.length;k++)
+		{
+			System.out.println(ob[k]+"  ");
+			
+		}
+	}*/
+	/*List l=q.list();
+	for(int i=0;i<l.size();i++)
+	{
+		Employee e1 =(Employee)l.get(i);
+		System.out.println(e1.getEid()+"  "+e1.getEname()+"  "+e1.getEsalary()+"  "+e1.getEadd());
+	}*/
+	
+	Query q=S.createQuery("select (e.*) from Employee as e ");
+/*	List<Employee> e=q.list();
+	for(Employee e1 : e)
+		System.out.println(e1.getEid()+"  "+e1.getEname()+"  "+e1.getEsalary()+"  "+e1.getEadd());
+	S.close();*/
+	  
+	Iterator it =q.iterate();
+	while (it.hasNext())
+	{
+		Employee e1 =(Employee)it.next();
+		System.out.println(e1.getEid()+"  "+e1.getEname()+"  "+e1.getEsalary()+"  "+e1.getEadd());
+	}
+	S.close();
+}
+}

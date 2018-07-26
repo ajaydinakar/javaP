@@ -1,0 +1,15 @@
+
+SQL> create table debit(cdno varchar(11),name varchar2(20),dob varchar2(20),addr varchar2(20),phone varchar2(20),opbal number(20),pin number(10)  );
+
+Table created.
+SQL> create table credit(dbcno varchar(11),name varchar2(20),dob varchar2(20),addr varchar2(20),phone varchar2(20),opbal number(20),valid varchar2(20)  );
+
+Table created.
+
+SQL> insert into credit values('1234567890','ajay','6thoct','taft','9396918520','5000',date '2022-11-05');
+
+1 row created.
+
+SQL> insert into debit values('1234567890','ajay','6thoct','taft','9396918520','5000','2022');
+
+1 row created.

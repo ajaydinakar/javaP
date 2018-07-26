@@ -1,0 +1,16 @@
+
+
+SQL> create or replace trigger tig
+  2  before insert on person
+  3  for each row
+  4  begin
+  5  select idseq.nextval
+  6  into :new.id
+  7  from dual;
+  8  end;
+  9  /
+
+Trigger created.
+
+
+ 

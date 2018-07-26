@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 8.5_Tomcat8.5/lib/catalina-ha.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 8.5_Tomcat8.5/lib/jasper.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 8.5_Tomcat8.5/lib/tomcat-coyote.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 8.5_Tomcat8.5/lib/tomcat-i18n-ja.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 8.5_Tomcat8.5/lib/tomcat-websocket.jar"/>
+  <path value="A:/Materials/..java/RestFullWebServices/jersey-archive-1.19/lib/jettison-1.1.jar"/>
+  <path value="A:/Materials/..java/RestFullWebServices/jersey-archive-1.19/lib/jsr311-api-1.1.1.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 8.5_Tomcat8.5/lib/tomcat-jdbc.jar"/>
+  <path value="A:/Materials/..java/RestFullWebServices/jersey-archive-1.19/lib/jersey-client-1.19.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 8.5_Tomcat8.5/lib/tomcat-util-scan.jar"/>
+  <path value="A:/Materials/..java/RestFullWebServices/jersey-archive-1.19/lib/jackson-jaxrs-1.9.2.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 8.5_Tomcat8.5/lib/ecj-4.6.3.jar"/>
+  <path value="A:/Materials/..java/RestFullWebServices/jersey-archive-1.19/lib/jersey-server-1.19.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 8.5_Tomcat8.5/lib/tomcat-i18n-fr.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 8.5_Tomcat8.5/lib/tomcat-api.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 8.5_Tomcat8.5/lib/catalina-ant.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 8.5_Tomcat8.5/lib/jasper-el.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 8.5_Tomcat8.5/lib/annotations-api.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 8.5_Tomcat8.5/lib/catalina-storeconfig.jar"/>
+  <path value="A:/Materials/..java/RestFullWebServices/jersey-archive-1.19/lib/jersey-json-1.19.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 8.5_Tomcat8.5/lib/jaspic-api.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 8.5_Tomcat8.5/lib/servlet-api.jar"/>
+  <path value="A:/Materials/..java/RestFullWebServices/jersey-archive-1.19/lib/jersey-core-1.19.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 8.5_Tomcat8.5/lib/tomcat-i18n-es.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 8.5_Tomcat8.5/lib/tomcat-jni.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 8.5_Tomcat8.5/lib/tomcat-util.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 8.5_Tomcat8.5/lib/jsp-api.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 8.5_Tomcat8.5/lib/websocket-api.jar"/>
+  <path value="A:/Materials/..java/RestFullWebServices/jersey-archive-1.19/lib/jackson-mapper-asl-1.9.2.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 8.5_Tomcat8.5/lib/tomcat-dbcp.jar"/>
+  <path value="A:/Materials/..java/RestFullWebServices/jersey-archive-1.19/lib/jackson-core-asl-1.9.2.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 8.5_Tomcat8.5/lib/catalina.jar"/>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 8.5_Tomcat8.5/lib/el-api.jar"/>
+  <path value="A:/Materials/..java/RestFullWebServices/jersey-archive-1.19/lib/jersey-servlet-1.19.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jersey-servlet-1.19.jar/meta-inf/taglib.tld" project="SimpleWebService"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Program Files/Apache Software Foundation/Tomcat 8.5_Tomcat8.5/lib/catalina-tribes.jar"/>
+  <path value="A:/Materials/..java/RestFullWebServices/jersey-archive-1.19/lib/jackson-xc-1.9.2.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification"/>
+  <core validator-id="jboss.cdi.core"/>
+  <el/>
+ </validation>
+ <aliases/>
+ <includes/>
+ <uris/>
+</kb-project>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Hibernate-lib"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/asm-1.5.3.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/aspectjweaver.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/cglib-2.1_3.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/commons-pool.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/ehcache-1.1.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/hibernate-3.1.2.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/hsqldb-1.8.0.1.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/jta.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/servlet-api.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/spring.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/spring-aop.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/spring-aspects.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/spring-beans.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/spring-context.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/spring-context-support.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/spring-core.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/spring-dao.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/spring-jdbc.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/spring-orm.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/spring-web.jar"/>
+	<classpathentry kind="lib" path="A:/Materials/..java/..SpringFramework/SpringCore1/Spring 2.5 Jars/spring-webmvc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

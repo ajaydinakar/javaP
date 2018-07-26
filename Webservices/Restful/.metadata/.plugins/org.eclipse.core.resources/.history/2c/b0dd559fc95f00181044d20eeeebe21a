@@ -1,0 +1,15 @@
+package com.ajay.simple;
+
+import javax.websocket.server.PathParam;
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+
+@Path("welcome")
+public class WelcomeService {
+	@GET
+	@Path("{msg}")
+	public String getMsg(@PathParam("msg")String msg )
+	{
+	return "welcome"+msg;
+	}
+}

@@ -1,0 +1,37 @@
+package springExample;
+
+import java.util.List;
+
+public class EmployeeDaoImpl implements EmployeeDao {
+
+	@Override
+	public void saveEmployee(EmployeeBean e) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void updateEmployee(EmployeeBean e) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void deleteEmployee(EmployeeBean e) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public EmployeeBean getById(int eid) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<EmployeeBean> getEmployees() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

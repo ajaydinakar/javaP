@@ -1,0 +1,5 @@
+package com.ajay.dao;
+Account
+public class AcccountDaoImpl {
+
+}

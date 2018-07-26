@@ -1,0 +1,47 @@
+package springExample;
+
+import java.util.List;
+
+import org.springframework.orm.hibernate3.HibernateTemplate;
+
+public class EmployeeDaoImpl implements EmployeeDao {
+	HibernateTemplate template;  
+	public HibernateTemplate getTemplate() {
+		return template;
+	}
+
+	public void setTemplate(HibernateTemplate template) {
+		this.template = template;
+	}
+
+	@Override
+	public void saveEmployee(EmployeeBean e) {
+		// TODO Auto-generated method stub
+template.save(e);
+	}
+
+	@Override
+	public void updateEmployee(EmployeeBean e) {
+		// TODO Auto-generated method stub
+template.update(e);
+	}
+
+	@Override
+	public void deleteEmployee(EmployeeBean e) {
+		// TODO Auto-generated method stub
+template.delete(e);
+	}
+
+	@Override
+	public EmployeeBean getById(int eid) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<EmployeeBean> getEmployees() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

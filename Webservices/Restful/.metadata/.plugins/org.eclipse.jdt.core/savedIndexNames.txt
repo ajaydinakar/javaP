@@ -1,0 +1,12 @@
+INDEX VERSION 1.130+A:\javaP\Webservices\Restful\.metadata\.plugins\org.eclipse.jdt.core
+3018257871.index
+2990690258.index
+2061697523.index
+2510371332.index
+2300042289.index
+579555670.index
+4258575392.index
+4261272043.index
+883040848.index
+1010881768.index
+3983158753.index
